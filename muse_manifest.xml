@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1463952154486">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1463952679822">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4214205341" ref="index"/>
+    <file name="index.css" crc="130072682" ref="index"/>
     <file name="nomq_index.css" crc="469880772" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -14,8 +14,9 @@
     <file name="u107-4.png" crc="200367006" ref="index"/>
     <file name="u107-42.png" crc="322387509" ref="index"/>
     <file name="u107-43.png" crc="3901987209" ref="index"/>
-    <file name="u107-44.png" crc="4228943649" ref="index"/>
+    <file name="u107-44.png" crc="3995231960" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u107-45.png" crc="4228943649" ref="index"/>
   </folder>
-  <file name="index.html" crc="3810986038" seo="true" mt="1463952092050" redirect="true"/>
+  <file name="index.html" crc="430029506" seo="true" mt="1463952566073" redirect="true"/>
 </manifest>
