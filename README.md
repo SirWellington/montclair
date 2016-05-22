@@ -1,6 +1,5 @@
 Montclair
+<img src="https://raw.githubusercontent.com/SirWellington/montclair/gh-pages/Design/Logo/Logo.png" width="300">
 ==============================
 
-<img src="https://raw.githubusercontent.com/SirWellington/montclair/gh-pages/Design/Logo/Logo.png" width="500">
-
-Life. Beauty. Nobility.
+## Life. Beauty. Nobility.
