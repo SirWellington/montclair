@@ -1,8 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1463952679822">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1463970897481">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="130072682" ref="index"/>
-    <file name="nomq_index.css" crc="469880772" ref="index"/>
+    <file name="index.css" crc="135283866" ref="index"/>
+    <file name="nomq_index.css" crc="4004824418" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="snellroundhand-bold.woff" crc="3877270418"/>
+    <file name="snellroundhand-bold.eot" crc="3881958632"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -11,12 +15,12 @@
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u107-4.png" crc="200367006" ref="index"/>
-    <file name="u107-42.png" crc="322387509" ref="index"/>
-    <file name="u107-43.png" crc="3901987209" ref="index"/>
-    <file name="u107-44.png" crc="3995231960" ref="index"/>
+    <file name="u107-4.png" crc="4017523911" ref="index"/>
+    <file name="u107-42.png" crc="4015599333" ref="index"/>
+    <file name="u107-43.png" crc="4171998809" ref="index"/>
+    <file name="u107-44.png" crc="462995067" ref="index"/>
+    <file name="u107-45.png" crc="3894240483" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u107-45.png" crc="4228943649" ref="index"/>
   </folder>
-  <file name="index.html" crc="430029506" seo="true" mt="1463952566073" redirect="true"/>
+  <file name="index.html" crc="4211407453" seo="true" mt="1463970879118" redirect="true"/>
 </manifest>

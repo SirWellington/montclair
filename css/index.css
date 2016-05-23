@@ -1,7 +1,16 @@
 .version.index /* version checker */
 {
-	color: #000007;
-	background-color: #C0C06A;
+	color: #000008;
+	background-color: #10449A;
+}
+
+@font-face
+{
+	font-family: '__Snell Roundhand_5';
+	src: url('../fonts/snellroundhand-bold.eot');
+	src: local('☺'), url('../fonts/snellroundhand-bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
 }
 
 #page
@@ -39,8 +48,8 @@
 {
 	background-color: transparent;
 	z-index: 2;
-	font-family: pinyon-script, cursive;
-	font-weight: 400;
+	font-family: '__Snell Roundhand_5';
+	font-weight: 700;
 	color: #EA2763;
 	position: relative;
 }
@@ -92,8 +101,8 @@ body
 	{
 		min-height: 145px;
 		text-align: left;
-		font-size: 120px;
-		line-height: 144px;
+		font-size: 100px;
+		line-height: 120px;
 		width: 100%;
 	}
 
@@ -130,8 +139,8 @@ body
 	{
 		min-height: 145px;
 		text-align: left;
-		font-size: 120px;
-		line-height: 144px;
+		font-size: 100px;
+		line-height: 120px;
 		margin-right: -10000px;
 		margin-top: 62px;
 		left: 20px;
@@ -186,10 +195,10 @@ body
 
 	#u94-4
 	{
-		min-height: 127px;
+		min-height: 98px;
 		text-align: center;
-		font-size: 100px;
-		line-height: 120px;
+		font-size: 80px;
+		line-height: 96px;
 		width: 100%;
 		margin-left: 0%;
 		left: -3.552713678800501e-14px;
@@ -236,10 +245,10 @@ body
 
 	#u94-4
 	{
-		min-height: 109px;
+		min-height: 75px;
 		text-align: center;
-		font-size: 90px;
-		line-height: 108px;
+		font-size: 60px;
+		line-height: 72px;
 		width: 99.71%;
 		margin-left: 0.15%;
 		left: 1.5000000000000249px;
@@ -255,6 +264,10 @@ body
 
 @media (max-width: 320px)
 {
+	/*
+
+*/
+
 	#muse_css_mq
 	{
 		background-color: #000140;
@@ -280,26 +293,26 @@ body
 	{
 		margin-right: -10000px;
 		margin-top: 62px;
-		width: 91.57%;
-		margin-left: 4.22%;
+		width: 87.5%;
+		margin-left: 6.25%;
 	}
 
 	#u94-4
 	{
-		min-height: 101px;
+		min-height: 68px;
 		text-align: center;
-		font-size: 80px;
-		line-height: 96px;
+		font-size: 55px;
+		line-height: 66px;
 		width: 100%;
 		margin-left: 0%;
-		left: -0.49999999999999645px;
+		left: 0px;
 	}
 
 	#u107-4
 	{
-		width: 95.57%;
-		margin-left: 2.22%;
-		left: -0.49999999999999645px;
+		width: 100%;
+		margin-left: 0%;
+		left: 0px;
 	}
 
 	body
