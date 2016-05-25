@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1463970897481">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1464146439705">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="135283866" ref="index"/>
-    <file name="nomq_index.css" crc="4004824418" ref="index"/>
+    <file name="index.css" crc="3849876262" ref="index"/>
+    <file name="nomq_index.css" crc="66469294" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="snellroundhand-bold.woff" crc="3877270418"/>
-    <file name="snellroundhand-bold.eot" crc="3881958632"/>
+    <file name="yuanti_3.woff" crc="422357149"/>
+    <file name="yuanti_3.eot" crc="3883954261"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -14,13 +14,5 @@
     <file name="whatinput.js" crc="84559013" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
   </folder>
-  <folder name="images">
-    <file name="u107-4.png" crc="4017523911" ref="index"/>
-    <file name="u107-42.png" crc="4015599333" ref="index"/>
-    <file name="u107-43.png" crc="4171998809" ref="index"/>
-    <file name="u107-44.png" crc="462995067" ref="index"/>
-    <file name="u107-45.png" crc="3894240483" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-  </folder>
-  <file name="index.html" crc="4211407453" seo="true" mt="1463970879118" redirect="true"/>
+  <file name="index.html" crc="3959639222" seo="true" mt="1464146421965" redirect="true"/>
 </manifest>

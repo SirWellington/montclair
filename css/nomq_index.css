@@ -25,13 +25,16 @@
 	{
 		min-height: 145px;
 		text-align: left;
-		font-size: 100px;
-		line-height: 120px;
+		font-size: 120px;
+		line-height: 144px;
 		width: 100%;
 	}
 
 	#u107-4
 	{
+		text-align: left;
+		font-size: 40px;
+		line-height: 48px;
 		width: 100%;
 	}
 
