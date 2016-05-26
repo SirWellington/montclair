@@ -10,6 +10,7 @@
 
 	#page
 	{
+		min-height: 278px;
 		max-width: 960px;
 	}
 
@@ -27,6 +28,7 @@
 		text-align: left;
 		font-size: 120px;
 		line-height: 144px;
+		position: relative;
 		width: 100%;
 	}
 
@@ -35,11 +37,14 @@
 		text-align: left;
 		font-size: 40px;
 		line-height: 48px;
+		position: relative;
 		width: 100%;
 	}
 
 	#u132
 	{
+		margin-right: -10000px;
+		margin-top: 276px;
 		width: 57.92%;
 		left: 2.09%;
 	}
