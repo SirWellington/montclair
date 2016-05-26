@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001F;
-	background-color: #050762;
+	color: #00001C;
+	background-color: #13EEE5;
 }
 
 .js body
@@ -12,15 +12,6 @@
 .js body.initialized
 {
 	visibility: visible;
-}
-
-@font-face
-{
-	font-family: '__Yuanti TC_5';
-	src: url('../fonts/yuanti_3.eot');
-	src: local('☺'), url('../fonts/yuanti_3.woff') format('woff');
-	font-weight: 400;
-	font-style: normal;
 }
 
 @font-face
@@ -56,12 +47,10 @@
 
 #u107-4
 {
-	min-height: 69px;
+	vertical-align: top;
 	z-index: 6;
-	font-weight: 400;
-	font-family: '__Yuanti TC_5';
-	color: #7F7F7F;
-	background-color: transparent;
+	display: block;
+	position: relative;
 }
 
 #u132
@@ -127,10 +116,6 @@ body
 
 	#u107-4
 	{
-		text-align: left;
-		font-size: 40px;
-		line-height: 48px;
-		position: relative;
 		width: 100%;
 	}
 
@@ -185,17 +170,12 @@ body
 
 	#u107-4
 	{
-		text-align: left;
-		font-size: 36px;
-		line-height: 43px;
-		position: relative;
 		margin-right: -10000px;
 		margin-top: 207px;
 		width: 94.8%;
 		margin-left: 2.61%;
 		left: 0px;
 	}
-
 }
 
 @media (min-width: 481px) and (max-width: 600px)
@@ -246,15 +226,10 @@ body
 
 	#u107-4
 	{
-		text-align: left;
-		font-size: 32px;
-		line-height: 38px;
-		position: relative;
 		width: 100%;
 		margin-left: 0%;
 		left: -6.394884621840902e-14px;
 	}
-
 }
 
 @media (min-width: 376px) and (max-width: 480px)
@@ -292,10 +267,6 @@ body
 
 	#u107-4
 	{
-		text-align: center;
-		font-size: 26px;
-		line-height: 31px;
-		position: relative;
 		width: 91.67%;
 		margin-left: 4.17%;
 		left: 0px;
@@ -344,15 +315,8 @@ body
 
 	#u107-4
 	{
-		text-align: center;
-		font-size: 26px;
-		line-height: 31px;
-	}
-
-	#u107-4-bw
-	{
-		z-index: 6;
-		min-height: 69px;
+		margin-left: 0%;
+		left: 0px;
 	}
 
 	#u132
@@ -402,15 +366,8 @@ body
 
 	#u107-4
 	{
-		text-align: center;
-		font-size: 22px;
-		line-height: 26px;
-	}
-
-	#u107-4-bw
-	{
-		z-index: 6;
-		min-height: 69px;
+		margin-left: 0%;
+		left: 0px;
 	}
 
 	#u132
