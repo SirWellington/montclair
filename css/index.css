@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001C;
-	background-color: #13EEE5;
+	color: #0000FF;
+	background-color: #AE3F31;
 }
 
 .js body
@@ -25,52 +25,58 @@
 
 #page
 {
-	z-index: 1;
-	border-width: 0px;
 	margin-right: auto;
-	padding-bottom: 222px;
-	background-image: none;
 	margin-left: auto;
-	width: 100%;
+	z-index: 1;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 222px;
+	width: 100%;
+	border-width: 0px;
+	background-image: none;
 }
 
 #u94-4
 {
-	z-index: 2;
 	font-weight: 700;
 	font-family: '__Snell Roundhand_5';
-	color: #EA2763;
+	z-index: 2;
+	color: #FFFFFF;
 	background-color: transparent;
 }
 
 #u107-4
 {
-	vertical-align: top;
-	z-index: 6;
 	display: block;
+	z-index: 6;
+	vertical-align: top;
 	position: relative;
 }
 
 #u132
 {
 	z-index: 10;
-	position: relative;
 	height: 2px;
+	position: relative;
 }
 
 .ie #u132
 {
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 	opacity: 0.01;
 	filter: alpha(opacity=1);
 	background-color: #FFFFFF;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background: #FFFFFF url("../images/black-linen.svg") repeat left top scroll;
+	background-size: 500px 500px;
+}
+
+.nosvg.html,.nosvg .html
+{
+	background-image: url('../images/black-linen_poster_u413.png');
 }
 
 body

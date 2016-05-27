@@ -1,16 +1,18 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1464221379209">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1464360622273">
   <folder name="images">
-    <file name="u107-4.png" crc="200367006" ref="index"/>
-    <file name="u107-42.png" crc="322387509" ref="index"/>
-    <file name="u107-43.png" crc="475675019" ref="index"/>
-    <file name="u107-44.png" crc="4171998809" ref="index"/>
-    <file name="u107-45.png" crc="3980351379" ref="index"/>
-    <file name="u107-46.png" crc="4237197162" ref="index"/>
+    <file name="u107-4.png" crc="4046556489" ref="index"/>
+    <file name="u107-42.png" crc="335720742" ref="index"/>
+    <file name="u107-43.png" crc="4192527554" ref="index"/>
+    <file name="u107-44.png" crc="106736609" ref="index"/>
+    <file name="u107-45.png" crc="3760795197" ref="index"/>
+    <file name="u107-46.png" crc="4217499796" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="black-linen.svg" crc="222945837" ref="index"/>
+    <file name="black-linen_poster_u413.png" crc="404948990" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="471068389" ref="index"/>
+    <file name="index.css" crc="4289609521" ref="index"/>
     <file name="nomq_index.css" crc="365119799" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -26,5 +28,5 @@
     <file name="jquery.watch.js" crc="4244854265" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
   </folder>
-  <file name="index.html" crc="335452975" seo="true" mt="1464221348678" redirect="true"/>
+  <file name="index.html" crc="335452975" seo="true" mt="1464360606019" redirect="true"/>
 </manifest>
