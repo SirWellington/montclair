@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #AE3F31;
+	color: #000015;
+	background-color: #9BB961;
 }
 
 .js body
@@ -76,7 +76,7 @@
 
 .nosvg.html,.nosvg .html
 {
-	background-image: url('../images/black-linen_poster_u413.png');
+	background-image: url('../images/black-linen_poster_u443.png');
 }
 
 body

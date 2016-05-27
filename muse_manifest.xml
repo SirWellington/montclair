@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1464360622273">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="montclair.fr" resolutions="1x" timestamp="1464360706606">
   <folder name="images">
     <file name="u107-4.png" crc="4046556489" ref="index"/>
     <file name="u107-42.png" crc="335720742" ref="index"/>
@@ -7,12 +7,12 @@
     <file name="u107-45.png" crc="3760795197" ref="index"/>
     <file name="u107-46.png" crc="4217499796" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="black-linen.svg" crc="222945837" ref="index"/>
-    <file name="black-linen_poster_u413.png" crc="404948990" ref="index"/>
+    <file name="black-linen.svg" crc="203809199" ref="index"/>
+    <file name="black-linen_poster_u443.png" crc="3842466614" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4289609521" ref="index"/>
+    <file name="index.css" crc="362527073" ref="index"/>
     <file name="nomq_index.css" crc="365119799" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -28,5 +28,5 @@
     <file name="jquery.watch.js" crc="4244854265" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
   </folder>
-  <file name="index.html" crc="335452975" seo="true" mt="1464360606019" redirect="true"/>
+  <file name="index.html" crc="335452975" seo="true" mt="1464360696077" redirect="true"/>
 </manifest>
